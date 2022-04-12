@@ -9,7 +9,7 @@ from discord import Webhook, RequestsWebhookAdapter # Importing discord.Webhook$
 client = discord.Client()
 # Insira o Token do bot
 
-Dbd_BOT = "OTI5MDcyNDk5MDcxODA3NjA5.YdiAMQ.Wrj5CLAb_Q3svKqmzLPInBCJF2w"
+Dbd_BOT = <seu TOKEN>
 
 berrybot = commands.Bot(command_prefix='!')
 uRL= 'https://discord.com/api/webhooks/955225408289263657/JLZv-8T9AOs1rXfe1SxBS$
