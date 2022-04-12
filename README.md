@@ -1,12 +1,12 @@
 <div>
-Repositorio Criado para gerenciar melhor os arquivos do servidor dedicado do dont starve.
+  <h1>Repositorio Criado para gerenciar melhor os arquivos do servidor dedicado do dont starve.</h1>
   </div>
  <div>
-*reinicio automatico
+<h2>*reinicio automatico</h2>
   <br>
-*envio de mensagem de status
+<h2>*envio de mensagem de status</h2>
   <br>
-*envio de mensagem denteo do jogo Globalmente
+<h2>*envio de mensagem denteo do jogo Globalmente</h2>
   <br>
-*auto update de Mods.
+<h2>*auto update de Mods.</h2>
 </div>
