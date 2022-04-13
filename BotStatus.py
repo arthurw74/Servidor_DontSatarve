@@ -12,7 +12,7 @@ client = discord.Client()
 Dbd_BOT = <seu TOKEN>
 
 berrybot = commands.Bot(command_prefix='!')
-uRL= 'https://discord.com/api/webhooks/955225408289263657/JLZv-8T9AOs1rXfe1SxBS$
+uRL= "Sua Url Webhook
 @berrybot.event
 async def on_ready():
     g = open("dontstarvetogether_dedicated_server/version.txt",mode='r', encodi$
