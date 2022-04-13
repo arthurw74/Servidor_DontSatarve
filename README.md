@@ -30,3 +30,17 @@ Utilizando o sistema ubuntu-20 lts.
   <li> <b>WebhookDont</b><br>
   manda uma mensagem no seu servidor discord, configure seu tokem e Url.
 </div>
+<div>
+<h1> contrab exemplo</h1>
+
+<b>Deve ser dado permissão para executar o script.</b><br>
+chmod +x /home/user/MonitorProcessDont.sh<br>
+<b>Coloque no crontab:<br></b>
+ */5 * * * * /home/user/MonitorProcessDont.sh<br>
+ <b>Se quiser editar o arquivo do usuario atual da crontab. Pode ser permissão tbm.<br></b>
+crontab -e<br>
+<b>Execute o comando: <br></b>
+crontab /etc/crontab<br>
+<b>Reiniciei o cron<br></b>
+/etc/init.d/cron restart
+</div>
